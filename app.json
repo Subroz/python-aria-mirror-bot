@@ -1,0 +1,29 @@
+{
+
+    "name": "billienotgood-mirror-bot",
+
+    "description": "Telegram mirror bot with python",
+
+    "logo": "https://telegra.ph/file/aabe78ce1d4d67c042f2f.jpg",
+
+    "keywords": [
+
+      "telegram",
+
+      "bot",
+
+      "aria",
+
+      "python"
+
+    ],
+
+    "repository": "https://github.com/MrCarb0n/tg-mirror-bot.git",
+
+    "website": "https://github.com/MrCarb0n/tg-mirror-bot/tree/master",
+
+    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/m>
+
+    "stack": "container"
+
+}
